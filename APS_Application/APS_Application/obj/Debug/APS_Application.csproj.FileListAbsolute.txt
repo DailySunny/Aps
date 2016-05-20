@@ -1,0 +1,38 @@
+C:\Users\bin.gu.vwpt\Documents\Visual Studio 2013\Projects\APS_Application\APS_Application\bin\Debug\APS_Application.exe.config
+C:\Users\bin.gu.vwpt\Documents\Visual Studio 2013\Projects\APS_Application\APS_Application\bin\Debug\APS_Application.exe
+C:\Users\bin.gu.vwpt\Documents\Visual Studio 2013\Projects\APS_Application\APS_Application\bin\Debug\APS_Application.pdb
+C:\Users\bin.gu.vwpt\Documents\Visual Studio 2013\Projects\APS_Application\APS_Application\bin\Debug\Smobiler.Core.dll
+C:\Users\bin.gu.vwpt\Documents\Visual Studio 2013\Projects\APS_Application\APS_Application\bin\Debug\Smobiler.Utility.dll
+C:\Users\bin.gu.vwpt\Documents\Visual Studio 2013\Projects\APS_Application\APS_Application\obj\Debug\frmMain.resources
+C:\Users\bin.gu.vwpt\Documents\Visual Studio 2013\Projects\APS_Application\APS_Application\obj\Debug\APS_Application.LoginForm.resources
+C:\Users\bin.gu.vwpt\Documents\Visual Studio 2013\Projects\APS_Application\APS_Application\obj\Debug\APS_Application.UserInfo.resources
+C:\Users\bin.gu.vwpt\Documents\Visual Studio 2013\Projects\APS_Application\APS_Application\obj\Debug\APS_Application.MenuForm.resources
+C:\Users\bin.gu.vwpt\Documents\Visual Studio 2013\Projects\APS_Application\APS_Application\obj\Debug\APS_Application.NextWeek.resources
+C:\Users\bin.gu.vwpt\Documents\Visual Studio 2013\Projects\APS_Application\APS_Application\obj\Debug\APS_Application.csproj.GenerateResource.Cache
+C:\Users\bin.gu.vwpt\Documents\Visual Studio 2013\Projects\APS_Application\APS_Application\obj\Debug\APS_Application.exe
+C:\Users\bin.gu.vwpt\Documents\Visual Studio 2013\Projects\APS_Application\APS_Application\obj\Debug\APS_Application.pdb
+C:\Users\bin.gu.vwpt\Documents\Visual Studio 2013\Projects\APS_Application\APS_Application\obj\Debug\APS_Application.csprojResolveAssemblyReference.cache
+C:\Users\bin.gu.vwpt\Documents\Visual Studio 2013\Projects\APS_Application\APS_Application\obj\Debug\APS_Application.DataShow.resources
+C:\Users\bin.gu.vwpt\Desktop\APS_Application\APS_Application\bin\Debug\APS_Application.exe.config
+C:\Users\bin.gu.vwpt\Desktop\APS_Application\APS_Application\bin\Debug\APS_Application.exe
+C:\Users\bin.gu.vwpt\Desktop\APS_Application\APS_Application\bin\Debug\APS_Application.pdb
+C:\Users\bin.gu.vwpt\Desktop\APS_Application\APS_Application\bin\Debug\Smobiler.Core.dll
+C:\Users\bin.gu.vwpt\Desktop\APS_Application\APS_Application\bin\Debug\Smobiler.Utility.dll
+C:\Users\bin.gu.vwpt\Desktop\APS_Application\APS_Application\obj\Debug\APS_Application.csprojResolveAssemblyReference.cache
+C:\Users\bin.gu.vwpt\Desktop\APS_Application\APS_Application\obj\Debug\APS_Application.Dayshow.resources
+C:\Users\bin.gu.vwpt\Desktop\APS_Application\APS_Application\obj\Debug\APS_Application.dayshowlayout.resources
+C:\Users\bin.gu.vwpt\Desktop\APS_Application\APS_Application\obj\Debug\frmMain.resources
+C:\Users\bin.gu.vwpt\Desktop\APS_Application\APS_Application\obj\Debug\APS_Application.LTchoose.resources
+C:\Users\bin.gu.vwpt\Desktop\APS_Application\APS_Application\obj\Debug\APS_Application.partselect.resources
+C:\Users\bin.gu.vwpt\Desktop\APS_Application\APS_Application\obj\Debug\APS_Application.partselectlayout.resources
+C:\Users\bin.gu.vwpt\Desktop\APS_Application\APS_Application\obj\Debug\APS_Application.Select.resources
+C:\Users\bin.gu.vwpt\Desktop\APS_Application\APS_Application\obj\Debug\APS_Application.LoginForm.resources
+C:\Users\bin.gu.vwpt\Desktop\APS_Application\APS_Application\obj\Debug\APS_Application.UserInfo.resources
+C:\Users\bin.gu.vwpt\Desktop\APS_Application\APS_Application\obj\Debug\APS_Application.MenuForm.resources
+C:\Users\bin.gu.vwpt\Desktop\APS_Application\APS_Application\obj\Debug\APS_Application.NextWeek.resources
+C:\Users\bin.gu.vwpt\Desktop\APS_Application\APS_Application\obj\Debug\APS_Application.DataShow.resources
+C:\Users\bin.gu.vwpt\Desktop\APS_Application\APS_Application\obj\Debug\APS_Application.csproj.GenerateResource.Cache
+C:\Users\bin.gu.vwpt\Desktop\APS_Application\APS_Application\obj\Debug\APS_Application.exe
+C:\Users\bin.gu.vwpt\Desktop\APS_Application\APS_Application\obj\Debug\APS_Application.pdb
+C:\Users\bin.gu.vwpt\Desktop\APS_Application\APS_Application\obj\Debug\APS_Application.partdetail.resources
+C:\Users\bin.gu.vwpt\Desktop\APS_Application\APS_Application\obj\Debug\APS_Application.partdetaillayout.resources

@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{967DC0F5-ACAC-45DB-B0E1-78DAB6D68F17}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>APS_Application</RootNamespace>
+    <AssemblyName>APS_Application</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Smobiler.Utility" />
+    <Reference Include="Smobiler.Core" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Dayshow.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Dayshow.Designer.cs">
+      <DependentUpon>Dayshow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dayshowlayout.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="dayshowlayout.Designer.cs">
+      <DependentUpon>dayshowlayout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSetting.Designer.cs">
+      <DependentUpon>frmSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HelpDAO.cs" />
+    <Compile Include="LTchoose.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="LTchoose.Designer.cs">
+      <DependentUpon>LTchoose.cs</DependentUpon>
+    </Compile>
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="partdetail.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="partdetail.Designer.cs">
+      <DependentUpon>partdetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="partdetaillayout.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="partdetaillayout.Designer.cs">
+      <DependentUpon>partdetaillayout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="partselect.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="partselect.Designer.cs">
+      <DependentUpon>partselect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="partselectlayout.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="partselectlayout.Designer.cs">
+      <DependentUpon>partselectlayout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Select.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Select.Designer.cs">
+      <DependentUpon>Select.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SmobilerForm1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SmobilerForm1.Designer.cs">
+      <DependentUpon>SmobilerForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SmobilerForm2.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SmobilerForm2.Designer.cs">
+      <DependentUpon>SmobilerForm2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SmobilerForm3.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SmobilerForm3.Designer.cs">
+      <DependentUpon>SmobilerForm3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SmobilerForm4.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SmobilerForm4.Designer.cs">
+      <DependentUpon>SmobilerForm4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SmobilerForm5.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SmobilerForm5.Designer.cs">
+      <DependentUpon>SmobilerForm5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SqlHelper.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Dayshow.resx">
+      <DependentUpon>Dayshow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dayshowlayout.resx">
+      <DependentUpon>dayshowlayout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LTchoose.resx">
+      <DependentUpon>LTchoose.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="partdetail.resx">
+      <DependentUpon>partdetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="partdetaillayout.resx">
+      <DependentUpon>partdetaillayout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="partselect.resx">
+      <DependentUpon>partselect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="partselectlayout.resx">
+      <DependentUpon>partselectlayout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Select.resx">
+      <DependentUpon>Select.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SmobilerForm1.resx">
+      <DependentUpon>SmobilerForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SmobilerForm2.resx">
+      <DependentUpon>SmobilerForm2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SmobilerForm3.resx">
+      <DependentUpon>SmobilerForm3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SmobilerForm4.resx">
+      <DependentUpon>SmobilerForm4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SmobilerForm5.resx">
+      <DependentUpon>SmobilerForm5.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bin\Debug\APS_Application.exe.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\APS_Application.exe" />
+    <Content Include="bin\Debug\APS_Application.pdb" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Release\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
